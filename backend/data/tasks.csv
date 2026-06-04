@@ -1,0 +1,13 @@
+id,name,duration,skill
+1,Frontend Dashboard Development,6,React
+2,Backend API Integration,5,Python
+3,Database Schema Design,4,SQL
+4,Authentication Module,3,Python
+5,Admin Panel Development,5,React
+6,Performance Optimization,4,Python
+7,Report Generation System,3,Python
+8,UI Testing & QA,2,Testing
+9,Deployment Pipeline Setup,4,DevOps
+10,Production Bug Fixes,2,Python
+11,Analytics Dashboard,5,React
+12,Documentation & Review,2,Testing
