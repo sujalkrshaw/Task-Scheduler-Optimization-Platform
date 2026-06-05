@@ -58,27 +58,73 @@ The platform combines optimization algorithms, analytics dashboards, and modern 
 * Resource Impact Analysis
 
 ---
+# 🖼️ Project Screenshots
 
-## 🖼️ Application Preview
+## 🚀 Dashboard Overview
 
-### Dashboard Overview
+<p align="center">
+  <img src="outputs/Dashboard.png.png" width="1000"/>
+</p>
 
-Add your screenshot here:
+---
 
-```md
-![Dashboard](docs/dashboard.png)
-```
+## ⚡ Greedy Scheduling Results
 
-### Analytics Dashboard
+<p align="center">
+  <img src="outputs/run_greedy.png" width="1000"/>
+</p>
 
-```md
-![Analytics](docs/analytics.png)
-```
+<p align="center">
+  <img src="outputs/greedy_part_2.png" width="1000"/>
+</p>
 
-### Optimization Results
+<p align="center">
+  <img src="outputs/greedy_part_3.png" width="1000"/>
+</p>
 
-```md
-![Optimization](docs/optimization.png)
+---
+
+## 🧠 CP-SAT Optimization Results
+
+<p align="center">
+  <img src="outputs/cp_sat.png" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="outputs/cp_sat_part_2.png" width="1000"/>
+</p>
+
+---
+
+## 📊 What-If Analysis
+
+<p align="center">
+  <img src="outputs/what_if_analysis.png" width="1000"/>
+</p>
+
+---
+
+## 📄 Report Export
+
+<p align="center">
+  <img src="outputs/download_proof.png" width="1000"/>
+</p>
+
+---
+
+## ✨ Key Features Demonstrated
+
+- 🚀 AI-Powered Task Scheduling
+- ⚡ Greedy Scheduling Algorithm
+- 🧠 CP-SAT Optimization Engine
+- 📊 KPI Analytics Dashboard
+- 🥧 Task Distribution Visualization
+- 🔍 Task Search & Filtering
+- 📈 Resource Utilization Analytics
+- 📄 CSV & PDF Export
+- 🎯 Workforce Optimization
+- 🔮 What-If Scenario Analysis
+
 ```
 
 ---
