@@ -306,11 +306,6 @@ This project demonstrates:
 
 B.Tech Student | Full Stack Developer | Optimization & Analytics Enthusiast
 
-GitHub:
-https://github.com/sujalkrshaw
-
-LinkedIn:
-https://www.linkedin.com
 
 ---
 
